@@ -1,0 +1,12 @@
+Instructions  to set up and run the project
+
+* First creat a new folder in your local machine. 
+* ⁠Then rename that folder as you want.
+* ⁠After that go to the repository of mine 
+* ⁠There’s a button called code, click on that 
+* ⁠There is an option called Clone, Under that there is a web url
+* ⁠Copy that url and agin go the folder that you have created in the local machine 
+* ⁠Open git bash in that specific folder that you have been created (open git bash in newly created folder path)
+* ⁠Finally in git bash type this command;
+ <git clone (web url of my repository)>
+*After cloning you need to create React app using 'npx' or 'npm' command
