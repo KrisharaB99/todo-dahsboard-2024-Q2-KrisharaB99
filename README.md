@@ -1,4 +1,4 @@
-# todo-dahsboard-2024-Q2-KrisharaB99
+# todo-dashboard-2024-Q2-KrisharaB99
 
 Instructions  to set up and run the project;
 
