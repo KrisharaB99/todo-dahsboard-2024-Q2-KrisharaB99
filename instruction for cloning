@@ -10,3 +10,4 @@ Instructions  to set up and run the project
 * ⁠Finally in git bash type this command;
  <git clone (web url of my repository)>
 *After cloning you need to create React app using 'npx' or 'npm' command
+You need to install axios for get the data throuth the API- 'npm install axios'
